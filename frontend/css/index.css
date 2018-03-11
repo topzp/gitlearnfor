@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+.left{
+    border-right-style:dashed;
+}
+.right h5{
+    padding-top: 50px;
+}
+.right-1{
+    border-bottom-style: dashed;
+    padding: 20px 0;
+}
